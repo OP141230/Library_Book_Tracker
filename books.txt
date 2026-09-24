@@ -1,7 +1,7 @@
 Book 1 :
 Title : Percy Jackson
 Author : Rick Riordan
-Genre : Thriller 
+Genre : Popular Thriller 
 
 Book 2 :
 Title : Life Of Pi
