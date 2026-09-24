@@ -1,0 +1,4 @@
+Book Search Rules
+
+1. Search by book title using exact or partial title keywords.
+2. Search by author name using exact or partial author keywords.
