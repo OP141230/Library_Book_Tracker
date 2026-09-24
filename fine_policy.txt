@@ -1,2 +1,2 @@
-Policy:
-Books returned late may incur a daily fine.
+Policy: Books returned late may incur a daily fine.
+Students should return books within the specified loan peroid.
