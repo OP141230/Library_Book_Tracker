@@ -9,4 +9,9 @@ Title : Life Of Pi
 Author : Yann Martel
 Genre : Adventure 
 
+Book 3 : 
+Title : The Hobbit 
+Author : J.R.R Tolkien
+Genre : Fantasy
+
 
