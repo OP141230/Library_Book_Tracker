@@ -1,11 +1,11 @@
 Book 1 :
-Title : 
-Author : 
-Genre : 
+Title : Percy Jackson
+Author : Rick Riordan
+Genre : Thriller Fiction
 
 Book 2 :
-Title : 
-Author : 
-Genre : 
+Title : Life Of Pi
+Author : Yann Martel
+Genre : Adventure Fiction
 
 
